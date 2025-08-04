@@ -4,4 +4,6 @@
 int main() {
 	char str[100];
     int i, len, isPalindrome = 1;
+    printf("Enter a string: ");
+    scanf("%s", str);
 
