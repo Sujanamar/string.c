@@ -17,4 +17,6 @@ int main() {
 
       }
     }
-
+   if (isPalindrome)
+        printf("'%s' is a palindrome.\n", str);
+    
