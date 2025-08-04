@@ -21,6 +21,6 @@ int main() {
         printf("'%s' is a palindrome.\n", str);
     else
         printf("'%s' is not a palindrome.\n", str);
-      return 0;
+      
 }
   this is not if  branch.... 
