@@ -14,3 +14,7 @@ int main() {
     if (str[i] != str[len - 1 - i]) {
     isPalindrome = 0;
     break;
+
+      }
+    }
+
