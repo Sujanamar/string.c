@@ -16,7 +16,7 @@ int main() {
     break;
 
       }
-    }
+    
    if (isPalindrome)
         printf("'%s' is a palindrome.\n", string);
     else
