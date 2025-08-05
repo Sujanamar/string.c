@@ -20,7 +20,9 @@ int main() {
    if (isPalindrome)
         printf("'%s' is a palindrome.\n", string);
     else
-        printf("'%s' is not a palindrome.\n", string);
+        printf("'%s' isn't a palindrome.\n", string);
       return 0;
 }
-  this is  if  branch.... 
+
+
+this is  if  branch.... 
